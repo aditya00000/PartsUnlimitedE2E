@@ -1,5 +1,5 @@
 pool:
-  name: MynewAgentPool
+  name: MyLocalAgentPool
 
 variables:
   BuildConfiguration: "release"
